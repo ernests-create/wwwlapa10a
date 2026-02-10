@@ -8,4 +8,4 @@ function poga3()
 { window.location.href="griekija.html" } 
 
 function poga4()
-{ window.location.href="" }
+{ window.location.href="index.html" }
